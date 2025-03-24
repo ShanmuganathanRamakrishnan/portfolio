@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.profile-img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border: 3px solid #007bff;
+}
+
+.skill-icon {
+    width: 50px;
+    height: 50px;
+    margin: 10px;
+}
